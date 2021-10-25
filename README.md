@@ -1,2 +1,2 @@
-# cadastroJS
- Cadastrando clientes com prompt utilizando JS
+# Cadastro de clientes
+ Cadastrando clientes no prompt utilizando JS
